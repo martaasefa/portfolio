@@ -169,19 +169,16 @@ form{
 }
 
 input, textarea{
-  padding:8px;          /* smaller padding */
-  font-size:14px;       /* slightly smaller text */
+  padding:10px;
   border:none;
   border-radius:6px;
 }
 
 button{
-  padding:10px 20px;    /* medium-sized button */
-  font-size:14px;       /* medium text */
-  background:#1e88e5;
+  padding:12px;
+  background:#1e88e5; /* same bright blue as hero button */
   color:#fff;
   border:none;
-  border-radius:6px;    /* optional rounded corners */
   cursor:pointer;
   transition:0.3s;
 }
